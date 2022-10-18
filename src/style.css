@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
+.color:hover {
+  width: 102.5%;
+}
