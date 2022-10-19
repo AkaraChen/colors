@@ -14,7 +14,6 @@ export default defineComponent({
           fontSize: "14px",
           display: "flex",
           justifyContent: "space-between",
-          fontFamily: "monospace",
         }}
         class="color"
         onClick={() => {
@@ -23,7 +22,7 @@ export default defineComponent({
         }}
       >
         <span>{props.name}</span>
-        <span>{props.color}</span>
+        <span style={{ fontFamily: "monospace" }}>{props.color}</span>
       </div>
     );
   },
