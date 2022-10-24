@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@akrc/fish': 0.4.4
-  '@akrc/ringo': 0.0.9
+  '@akrc/ringo': 0.1.1
   '@vitejs/plugin-vue': 3.1.2
   '@vitejs/plugin-vue-jsx': 2.0.1
   typescript: 4.8.4
@@ -11,7 +11,7 @@ specifiers:
 
 dependencies:
   '@akrc/fish': 0.4.4
-  '@akrc/ringo': 0.0.9
+  '@akrc/ringo': 0.1.1
   '@vitejs/plugin-vue-jsx': 2.0.1_vite@3.1.8+vue@3.2.41
   vue: 3.2.41
 
@@ -26,8 +26,8 @@ packages:
     resolution: {integrity: sha512-xMxjAowkQroq6clWwcScHv5xEGvR4PAZ2MHK6hlHO3ltKdc2obWznFPSv91RWwINirizBRxvkJO1fGbCoxW8qg==}
     dev: false
 
-  /@akrc/ringo/0.0.9:
-    resolution: {integrity: sha512-aUhYU5vpCyKQGOoRPFvBMNRXefvW2rLaqQNbMrCWyUnEk2o7u1NDRzbv1FmRuqmdXmUNAVco6+xhNqr1xm3ZYQ==}
+  /@akrc/ringo/0.1.1:
+    resolution: {integrity: sha512-dqTHnmkVkadp0O4nabFk8fs/+3tD5eZkzwxnwBIBkIimwU5szf1KwUDyP4JInuGypBVmbZ9WNyAJRLCrCTHHnw==}
     dev: false
 
   /@ampproject/remapping/2.2.0:
