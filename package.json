@@ -16,7 +16,7 @@
   "dependencies": {
     "@akrc/fish": "0.4.5",
     "@akrc/ringo": "0.1.2",
-    "@vitejs/plugin-vue-jsx": "2.0.1",
+    "@vitejs/plugin-vue-jsx": "2.1.0",
     "vue": "3.2.41"
   }
 }
