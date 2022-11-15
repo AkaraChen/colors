@@ -6,19 +6,19 @@ specifiers:
   '@vitejs/plugin-vue': 3.2.0
   '@vitejs/plugin-vue-jsx': 2.1.1
   typescript: 4.8.4
-  vite: 3.2.3
+  vite: 3.2.4
   vue: 3.2.45
 
 dependencies:
   '@akrc/fish': 0.4.5
   '@akrc/ringo': 0.1.3
-  '@vitejs/plugin-vue-jsx': 2.1.1_vite@3.2.3+vue@3.2.45
+  '@vitejs/plugin-vue-jsx': 2.1.1_vite@3.2.4+vue@3.2.45
   vue: 3.2.45
 
 devDependencies:
-  '@vitejs/plugin-vue': 3.2.0_vite@3.2.3+vue@3.2.45
+  '@vitejs/plugin-vue': 3.2.0_vite@3.2.4+vue@3.2.45
   typescript: 4.8.4
-  vite: 3.2.3
+  vite: 3.2.4
 
 packages:
 
@@ -372,7 +372,7 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.14
     dev: false
 
-  /@vitejs/plugin-vue-jsx/2.1.1_vite@3.2.3+vue@3.2.45:
+  /@vitejs/plugin-vue-jsx/2.1.1_vite@3.2.4+vue@3.2.45:
     resolution: {integrity: sha512-JgDhxstQlwnHBvZ1BSnU5mbmyQ14/t5JhREc6YH5kWyu2QdAAOsLF6xgHoIWarj8tddaiwFrNzLbWJPudpXKYA==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
@@ -382,20 +382,20 @@ packages:
       '@babel/core': 7.19.6
       '@babel/plugin-transform-typescript': 7.20.2_@babel+core@7.19.6
       '@vue/babel-plugin-jsx': 1.1.1_@babel+core@7.19.6
-      vite: 3.2.3
+      vite: 3.2.4
       vue: 3.2.45
     transitivePeerDependencies:
       - supports-color
     dev: false
 
-  /@vitejs/plugin-vue/3.2.0_vite@3.2.3+vue@3.2.45:
+  /@vitejs/plugin-vue/3.2.0_vite@3.2.4+vue@3.2.45:
     resolution: {integrity: sha512-E0tnaL4fr+qkdCNxJ+Xd0yM31UwMkQje76fsDVBBUCoGOUPexu2VDUYHL8P4CwV+zMvWw6nlRw19OnRKmYAJpw==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
       vite: ^3.0.0
       vue: ^3.2.25
     dependencies:
-      vite: 3.2.3
+      vite: 3.2.4
       vue: 3.2.45
     dev: true
 
@@ -920,8 +920,8 @@ packages:
       picocolors: 1.0.0
     dev: false
 
-  /vite/3.2.3:
-    resolution: {integrity: sha512-h8jl1TZ76eGs3o2dIBSsvXDLb1m/Ec1iej8ZMdz+PsaFUsftZeWe2CZOI3qogEsMNaywc17gu0q6cQDzh/weCQ==}
+  /vite/3.2.4:
+    resolution: {integrity: sha512-Z2X6SRAffOUYTa+sLy3NQ7nlHFU100xwanq1WDwqaiFiCe+25zdxP1TfCS5ojPV2oDDcXudHIoPnI1Z/66B7Yw==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
