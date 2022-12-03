@@ -1,6 +1,6 @@
 import { defineComponent } from "vue";
 import { notice } from "@akrc/ringo";
-import "@akrc/ringo/style/notice/default.css";
+import "@akrc/ringo/style/all/ant.css";
 
 export default defineComponent({
   props: ["color", "index", "name"],
